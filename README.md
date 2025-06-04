@@ -6,6 +6,7 @@ This project involves the development of a relational database designed to manag
 
 The proposed model is based on the 2015/2016 football season, which includes the European club competitions UEFA Champions League (UCL), UEFA Europa League (UEL), and the European Football Championship contested by the senior men's national teams of UEFA members (Euro 2016).
 
+
 ### Constraints of the proposed model (which I find necessary to mention here)
 - The domestic league of a country refers exclusively to the top national division. Lower divisions are not included in the model;
 - The model is focused solely senior men's football leagues. Therefore, youth competitions, women's football, and other age categories or competitive levels are not represented.
@@ -13,5 +14,7 @@ The proposed model is based on the 2015/2016 football season, which includes the
 
 
 <p align="center">
-  <img src="madrid.jpg" width="600" alt="hala madrid">
+
+![hala madrid](madrid.jpg){ width=600 }
+
 </p>
