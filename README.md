@@ -13,8 +13,6 @@ The proposed model is based on the 2015/2016 football season, which includes the
 
 
 
-<p align="center">
-
-![hala madrid](madrid.jpg){ width=600 }
-
+<p align="center" style="margin-top: 20px;">
+  <img src="madrid.jpg" width="600" alt="hala madrid">
 </p>
