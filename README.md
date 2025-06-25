@@ -9,7 +9,7 @@ The proposed model is based on the 2015/2016 football season, which includes the
 
 ### Constraints of the proposed model (which I find necessary to mention here)
 - The domestic league of a country refers exclusively to the top national division. Lower divisions are not included in the model;
-- The model is focused solely senior men's football leagues. Therefore, youth competitions, women's football, and other age categories or competitive levels are not represented.
+- The model is focused solely on senior men's football leagues. Therefore, youth competitions, women's football, and other age categories or competitive levels are not represented.
 
 
 
